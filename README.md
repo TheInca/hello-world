@@ -1,2 +1,1 @@
-# hello-world
-my first test program
+God i have no idea what I'm doing
